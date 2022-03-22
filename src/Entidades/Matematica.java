@@ -4,6 +4,7 @@ public class Matematica {
     
     private Double num1;
     private Double num2;
+    private Double num3;
 
     public Matematica() {
     }
